@@ -101,7 +101,7 @@
     "docs-server": "node ./scripts/docs-server",
     "storybook": "start-storybook -p 6006"
   },
-  "version": "0.0.1",
+  "version": "0.0.3",
   "directories": {
     "lib": "lib"
   }

@@ -1,4 +1,8 @@
-#修复/添加一些react-coloe的内容
+## 修复/添加一些react-coloe的内容
+#### 2019-5-16
+/lib/components/common/EditableInput.js  (245行)
+/lib/components/common/block/Block.js  (54,55,56,157,158行)
+
 
 # [React Color](http://casesandberg.github.io/react-color/)
 
